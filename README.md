@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Super-Pizza
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning in school
-- 💞️ I’m looking to collaborate on projects that pick my interest
-- 📫 How to reach me: Discord probably?
+- Hi, I’m @Super-Pizza
+- I’m interested in Programming and aviation
+- I’m currently learning in school
+- I’m looking to collaborate on projects that pick my interest
+- How to reach me: Discord (@`super_pizza._`)
